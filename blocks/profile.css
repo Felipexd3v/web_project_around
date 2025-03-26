@@ -1,0 +1,51 @@
+.profile {
+  max-width: 880px;
+  margin: 40px auto;
+  display: flex;
+}
+
+.profile__image {
+  border-radius: 50%;
+  width: 120px;
+}
+.profile__info {
+  max-width: 415px;
+  margin: auto 30px;
+}
+.profile__info-container {
+  display: flex;
+  padding-bottom: 16px;
+  align-items: center;
+}
+.profile__name {
+  max-width: 373px;
+  color: #ffffff;
+  font-size: 42px;
+  font-weight: 500;
+  line-height: 48px;
+  margin: 0;
+}
+.profile__experience {
+  max-width: 415px;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 100%;
+  margin: 0;
+}
+.profile__button-edit {
+  width: 24px;
+  height: 24px;
+  background: transparent;
+  padding: 0;
+  margin-left: 18px;
+}
+.profile__button-add {
+  width: 150px;
+  height: 50px;
+  background: transparent;
+  border-radius: 2px;
+  margin: auto;
+  margin-right: 0;
+  padding: 0;
+}
