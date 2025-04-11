@@ -7,12 +7,12 @@
   row-gap: 17px;
   column-gap: 20px;
 }
-.elements__element-card {
+.elements__card {
   background-color: #ffffff;
   /* border: 1.5px solid rgba(0, 0, 0, 1); */
   border-radius: 10px;
 }
-.elements__element-card_image {
+.elements__card-image {
   height: 282px;
   width: 100%;
   border-top-left-radius: 10px;
