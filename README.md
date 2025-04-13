@@ -4,7 +4,7 @@
 
 # Descrição do Projeto
 
-Um site de social mídia criado com com HTML, CSS e JavaScript
+Um site de mídia social criado com HTML, CSS e JavaScript
 
 # Planos de melhoria do Projeto
 
